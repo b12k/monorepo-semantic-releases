@@ -1,3 +1,3 @@
 const msg = require('@mono/lib-a');
 
-console.log(msg);
+console.log('Lib a', msg);
