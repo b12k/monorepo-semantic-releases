@@ -1,0 +1,13 @@
+{
+  "name": "@mono/lib-b",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it --ci"
+  },
+  "devDependencies": {
+    "@mono/config-release-it": "*",
+    "@mono/lib-c": "*"
+  }
+}

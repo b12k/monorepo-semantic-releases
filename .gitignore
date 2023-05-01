@@ -1,0 +1,7 @@
+.idea
+.turbo
+.vscode
+
+*.log
+
+node_modules
