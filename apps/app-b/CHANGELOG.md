@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-b-v0.3.0...@mono/app-b-v0.4.0) (2023-05-01)
+
+
+### Features
+
+* **lib-b:** added prefix ([#3](https://github.com/b12k/monorepo-semantic-releases/issues/3)) ([2cb0847](https://github.com/b12k/monorepo-semantic-releases/commit/2cb08478f16b3efa133c5af2b632c14f295ac2ff))
+
 ## [0.3.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-b-v0.2.0...@mono/app-b-v0.3.0) (2023-05-01)
 
 
