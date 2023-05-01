@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/lib-b-v0.2.0...@mono/lib-b-v0.3.0) (2023-05-01)
+
+
+### Features
+
+* **lib-b:** changed message ([#2](https://github.com/b12k/monorepo-semantic-releases/issues/2)) ([f7e49eb](https://github.com/b12k/monorepo-semantic-releases/commit/f7e49ebb1adf117c2ef5b720bafef6f974872229))
+
 ## [0.2.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/lib-b-v0.1.0...@mono/lib-b-v0.2.0) (2023-05-01)
 
 
