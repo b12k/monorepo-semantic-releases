@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-b-v0.1.0...@mono/app-b-v0.2.0) (2023-05-01)
+
+
+### Features
+
+* **lib-b:** released version v0.2.0 [no ci] ([73f5876](https://github.com/b12k/monorepo-semantic-releases/commit/73f587631a469011022e53599b9ebb864ea4a7c7))
+
 ## 0.1.0 (2023-05-01)
 
 
