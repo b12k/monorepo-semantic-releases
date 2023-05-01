@@ -1,5 +1,12 @@
 
 
+## [0.2.1](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-a-v0.2.0...@mono/app-a-v0.2.1) (2023-05-01)
+
+
+### Bug Fixes
+
+* **lib-a:** added prefix ([#4](https://github.com/b12k/monorepo-semantic-releases/issues/4)) ([9c77d35](https://github.com/b12k/monorepo-semantic-releases/commit/9c77d3553e3c08442f210d4dd337737fee6907d2))
+
 ## [0.2.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-a-v0.1.0...@mono/app-a-v0.2.0) (2023-05-01)
 
 
