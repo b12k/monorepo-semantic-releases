@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/lib-a-v0.1.0...@mono/lib-a-v0.2.0) (2023-05-01)
+
+
+### Features
+
+* **lib-c:** released version v0.2.0 [no ci] ([da0d43d](https://github.com/b12k/monorepo-semantic-releases/commit/da0d43d9539c6482a3b5b3b7fc1e993724cee886))
+
 ## 0.1.0 (2023-05-01)
 
 
