@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/lib-c-v0.1.0...@mono/lib-c-v0.2.0) (2023-05-01)
+
+
+### Features
+
+* **lib-c:** changed name ([#1](https://github.com/b12k/monorepo-semantic-releases/issues/1)) ([3ce9142](https://github.com/b12k/monorepo-semantic-releases/commit/3ce9142c8e250906c3054c4e8533e121929f5c75))
+
 ## 0.1.0 (2023-05-01)
 
 
