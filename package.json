@@ -13,14 +13,14 @@
   ],
   "scripts": {
     "start": "turbo start",
-    "prepare": "husky install",
+    "prepare": "husky",
     "release": "turbo release --concurrency=1"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.6.1",
-    "@commitlint/config-conventional": "17.6.1",
-    "husky": "8.0.3",
-    "turbo": "1.9.3"
+    "@commitlint/cli": "20.1.0",
+    "@commitlint/config-conventional": "20.0.0",
+    "husky": "9.1.7",
+    "turbo": "2.6.1"
   },
-  "packageManager": "yarn@1.22.19"
+  "packageManager": "yarn@1.22.22"
 }
