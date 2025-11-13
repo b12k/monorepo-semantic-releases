@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@mono/lib-a": "0.2.0"
+    "@mono/lib-a": "0.3.0"
   },
   "devDependencies": {
     "@mono/config-release-it": "0.2.0"

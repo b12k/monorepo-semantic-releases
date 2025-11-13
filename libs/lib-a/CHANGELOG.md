@@ -1,4 +1,9 @@
+# Changelog
 
+## 0.3.0 (2025-11-13)
+
+* feat(config-release-it): released version v0.2.0 [no ci] ([0aa5038](https://github.com/b12k/monorepo-semantic-releases/commit/0aa5038))
+* feat(lib-c): released version v0.3.0 [no ci] ([fed4b54](https://github.com/b12k/monorepo-semantic-releases/commit/fed4b54))
 
 ## [0.2.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/lib-a-v0.1.0...@mono/lib-a-v0.2.0) (2023-05-01)
 
