@@ -1,0 +1,26 @@
+{
+  "name": "mono",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": [
+    "apps/app-a",
+    "apps/app-b",
+    "libs/lib-a",
+    "libs/lib-b",
+    "libs/lib-c",
+    "configs/config-release-it"
+  ],
+  "scripts": {
+    "start": "turbo start",
+    "prepare": "husky",
+    "release": "turbo release --concurrency=1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "20.1.0",
+    "@commitlint/config-conventional": "20.0.0",
+    "husky": "9.1.7",
+    "turbo": "2.6.1"
+  },
+  "packageManager": "yarn@1.22.22"
+}
