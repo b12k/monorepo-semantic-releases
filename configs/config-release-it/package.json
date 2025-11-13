@@ -1,6 +1,6 @@
 {
   "name": "@mono/config-release-it",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "UNLICENSED",
   "main": ".release-it.js",
   "scripts": {
